@@ -1,0 +1,14 @@
+
+.jumbotron {
+background-image: url("pexels-cdc-3992937.jpg");
+background-size: 100% 100%;
+text-align: center;
+}
+
+.jumbotron h1 {
+    color: #ffff
+}
+
+.jumbotron p {
+    color: #ffff
+}
